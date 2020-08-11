@@ -1,4 +1,4 @@
-# LED_SMD
+# LED_YS-SK6812MINI-E.pretty
 
 ## YS-SK6812MINI-E
 
