@@ -1,11 +1,21 @@
 # Switch cherry MX Kailh Socket
 
-### `Switch_Cherry_MX_1.00u_Kailh`
+## Common footprints
 
-![image](docs/Switch_Cherry_MX_1.00u_Kailh.png)
+![image](docs/SW_Cherry_MX_1.00u_Kailh.kicad_mod.png)
 
-### `Switch_Cherry_MX_1.00u_Kailh_solder_hybrid`
+## Non-common footprints
 
-Switch can be mounted in reverse direction with soldering. Useful when placing a TRRS jack between switches.
+Includes experimental footprints. Use with caution.
 
-![image](docs/Switch_Cherry_MX_1.00u_Kailh_Solder_Hybrid.png)
+### Reversible
+
+![image](docs/SW_Cherry_MX_1.00u_Kailh_reversible.kicad_mod.png)
+
+### With ALPS EC12 Rotary Encoder (Experimental)
+
+![image](docs/SW_Cherry_MX_1.00u_Kailh_EC12.kicad_mod.png)
+
+### 1.00u + 1.25u XOR 2.25u (Experimental)
+
+![image](docs/SW_Cherry_MX_1.00u_1.25u_2.25u_Kailh.kicad_mod.png)
